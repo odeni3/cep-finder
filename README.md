@@ -1,8 +1,8 @@
-# Buscar CEP
+# CEP-FINDER
 
 ![GitHub](https://img.shields.io/github/license/odeni3/Buscar-CEP?style=flat-square)
 
-The Buscar CEP program is a Java desktop application developed using WindowBuilder, enabling users to find address information based on a provided ZIP code. It utilizes XML code to access the Republica Virtual service API, fetching data such as city, neighborhood, and state. Additionally, it features data clearing functionalities and provides information about the developer, including links to GitHub and LinkedIn.
+The Cep Finder program is a Java desktop application developed using WindowBuilder, enabling users to find address information based on a provided ZIP code. It utilizes XML code to access the Republica Virtual service API, fetching data such as city, neighborhood, and state. Additionally, it features data clearing functionalities and provides information about the developer, including links to GitHub and LinkedIn.
 
 ## Features
 
