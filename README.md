@@ -22,3 +22,5 @@ To run the Buscar CEP program locally, follow these steps:
 2. Ensure you have Java Development Kit (JDK) installed on your system.
 3. Open the project in your preferred Java IDE that supports WindowBuilder.
 4. Build and run the `Cep.java` file to launch the application.
+
+![App Screenshot](./img/example.png)
